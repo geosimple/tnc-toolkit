@@ -82,7 +82,7 @@ var assets = {
 }
 ```
 
-## Changed years legend
+## Years of change legend
 
 Legend showing the years that show changes from forest to agriculture or pasture classes.
 
@@ -123,7 +123,6 @@ Three layers are included in the map:
 2. Target area
 3. years of coverage change
 
-
 # Example: Step-by-Step
 
 ## Choose a geometry target
@@ -136,10 +135,27 @@ In this case we are going to draw a geometry.
 
 ![step-02](images/step-02.png)
 
+1. Enable the Drawing tools.
+2. Draw the polygon through the location of successive points.
+3. Run the analysis and generate the report.
+
 
 ## Reporting
 
 ![step-03](images/step-03.png)
+
+1. Administrative limits of provinces and departments where the polygon is located.
+2. Total area of the polygon and area of changes.
+3. Chart of change surfaces by year.
+4. Chart of areas according to OTBN categories.
+5. Map of years with changes.
+6. Legend showing the years that show changes from forest to agriculture or pasture classes.
+
+In this example, the largest area of change was detected in 2017. There we observed that transition 315 (Closed forest to pasture) was 332 hectares, while transition 319 (Closed forest to agriculture) was 238 hectares for that year.
+
+![step-04](images/step-04.png)
+
+
 
 
 

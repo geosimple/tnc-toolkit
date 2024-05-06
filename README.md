@@ -10,7 +10,7 @@ To run the toolkit open the [app.js](https://code.earthengine.google.com/?script
 
 ## Interface
 
-![toolkit-interfaz](toolkit-EN.png)
+![toolkit-interfaz](images/toolkit-EN.png)
 
  1. Target geometry options.
  2. Run analysis button.
@@ -122,6 +122,27 @@ Three layers are included in the map:
 1. MapBiomas LULC
 2. Target area
 3. years of coverage change
+
+
+# Example: Step-by-Step
+
+## Choose a geometry target
+
+In this case we are going to draw a geometry.
+
+![step-01](images/step-01.png)
+
+## Draw the polygon
+
+![step-02](images/step-02.png)
+
+
+## Reporting
+
+![step-03](images/step-03.png)
+
+
+
 
 
 

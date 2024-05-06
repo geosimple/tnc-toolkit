@@ -2,8 +2,13 @@
 
 TNC-Toolkit is a TNC-Toolkit is a tool for querying MapBiomas collections that, based on a polygon geometry, allows recovering information on transitions over time from a series of land use and land cover maps. 
 
-## Interface
+## Google Earth Engine Repository
 
+    https://code.earthengine.google.com/?accept_repo=users/geosimplear/tnc-toolkit
+
+To run the toolkit open the app.js script from [Code Editor](https://code.earthengine.google.com/) and run it from Run.
+
+## Interface
 
 ![toolkit-interfaz](toolkit-interfaz.png)
 
@@ -16,12 +21,6 @@ TNC-Toolkit is a TNC-Toolkit is a tool for querying MapBiomas collections that, 
  7. Areas corresponding to the forest law regulations (OTBN)
  8. Layers included in the map
  9. Target geometry visualization
-
-## Google Earth Engine Repository
-
-    https://code.earthengine.google.com/?accept_repo=users/geosimplear/tnc-toolkit
-
-To run the toolkit open the app.js script from [Code Editor](https://code.earthengine.google.com/) and run it from Run.
 
 ## Target geometry options
 

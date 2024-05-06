@@ -28,7 +28,7 @@ There are two options for entering a target geometry for analysis. The first is 
 
 The second option can be set in the app.js configuration in section 2 assets settings. The AOI section allows you to define different layers to use as analysis geometries.
 
-```Javascripts
+```Javascript
 // 2) Assets Settings
 var assets = {
     // AOI Generales definidas ad-hoc

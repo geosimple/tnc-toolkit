@@ -41,7 +41,7 @@ The second option can be set in the app.js configuration in section 2 assets set
 ```Javascript
 // 2) Assets Settings
 var assets = {
-    // AOI Generales definidas ad-hoc
+    // AOI Targets from assets
     aoi: [
         {
             label: "Ejemplo", 

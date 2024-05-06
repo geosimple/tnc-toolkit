@@ -6,7 +6,7 @@ TNC-Toolkit is a TNC-Toolkit is a tool for querying MapBiomas collections that, 
 
     https://code.earthengine.google.com/?accept_repo=users/geosimplear/tnc-toolkit
 
-To run the toolkit open the app.js script from [Code Editor](https://code.earthengine.google.com/) and run it from Run.
+To run the toolkit open the [app.js](https://code.earthengine.google.com/?scriptPath=users%2Fgeosimplear%2Ftnc-toolkit%3Aapp.js) script from [Code Editor](https://code.earthengine.google.com/) and run it from Run.
 
 ## Interface
 

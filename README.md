@@ -10,7 +10,7 @@ To run the toolkit open the [app.js](https://code.earthengine.google.com/?script
 
 ## Interface
 
-![toolkit-interfaz](toolkit-interfaz.png)
+![toolkit-interfaz](toolkit-EN.png)
 
  1. Target geometry options.
  2. Run analysis button.
@@ -21,6 +21,16 @@ To run the toolkit open the [app.js](https://code.earthengine.google.com/?script
  7. Areas corresponding to the forest law regulations (OTBN)
  8. Layers included in the map
  9. Target geometry visualization
+
+### Interface language
+
+The toolkit can be used in different languages, currently it can be used in English [EN] or Spanish [ES] indicating this in section 1) Language of the app.js script.
+
+```Javascript
+// 1) Laguage Setting
+var language = "ES";
+```
+It is possible to incorporate other languages from the [i18n.js](https://code.earthengine.google.com/?scriptPath=users%2Fgeosimplear%2Ftnc-toolkit%3Amodules%2Fi18n.js) module.
 
 ## Target geometry options
 

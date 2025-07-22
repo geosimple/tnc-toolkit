@@ -53,8 +53,11 @@ The [legend codes](https://chaco.mapbiomas.org/legend-codes/) can be verified fr
 
 These areas correspond to the total sum of changes in each of the categories of the territorial planning of native forests for all years.
 
+## Warning message
 
+If the target geometry does not contain significant areas of change, a warning message will appear.
 
+![warning-msg](images/warning-msg.png)
 
 
 

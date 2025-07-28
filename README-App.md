@@ -1,6 +1,6 @@
 # App tnc-toolkit
 
-TNC-Toolkit is a TNC-Toolkit is a tool for querying MapBiomas collections that, based on a polygon geometry, allows recovering information on transitions over time from a series of land use and land cover maps. These transition layers are added to the map and are shown as years in which these changes occur from natural vegetation (mainly Forest) to anthropic class (agriculture or pasture).
+TNC-Toolkit is a tool for querying MapBiomas collections that, based on a polygon geometry, allows recovering information on transitions over time from a series of land use and land cover maps. These transition layers are added to the map and are shown as years in which these changes occur from natural vegetation (mainly Forest) to anthropic class (agriculture or pasture).
 
 ## Google Earth Engine App
 
